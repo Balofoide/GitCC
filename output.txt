@@ -1,8 +1,26 @@
 Microsoft Windows [versão 10.0.19045.3448]
 (c) Microsoft Corporation. Todos os direitos reservados.
 
-C:\Users\Balolab\source\repos\GitCC\GitCC\bin\Debug>cmd /k echo Hackeado otario
-Hackeado otario
+C:\Users\Balolab\source\repos\GitCC\GitCC\bin\Debug>cmd /k ipconfig
+
+Configuração de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS específico de conexão. . . . . . : 
+   Endereço IPv6 de link local . . . . . . . . : fe80::1f59:ff65:5fcb:6269%6
+   Endereço IPv4. . . . . . . .  . . . . . . . : 10.0.2.5
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padrão. . . . . . . . . . . . . . . : 10.0.2.1
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS específico de conexão. . . . . . : 
+   Endereço IPv6 de link local . . . . . . . . : fe80::6c7f:c46b:a019:a684%7
+   Endereço IPv4. . . . . . . .  . . . . . . . : 10.152.152.14
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.192.0
+   Gateway Padrão. . . . . . . . . . . . . . . : 10.152.152.10
 
 C:\Users\Balolab\source\repos\GitCC\GitCC\bin\Debug>
 C:\Users\Balolab\source\repos\GitCC\GitCC\bin\Debug>
